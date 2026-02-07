@@ -5,3 +5,4 @@ Repositório criado enquanto estudo
 
 Dando o primeiro Commit 
 Agora estou tentando dar o commit
+Conluido
