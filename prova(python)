@@ -1,0 +1,5 @@
+a, b = map(int, input().split())
+aa = 4
+bb = 6
+nota = (a*aa + b*bb) / 10
+print(f"MEDIA = {nota:.1f}")
